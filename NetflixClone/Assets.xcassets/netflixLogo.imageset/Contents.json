@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "Netflix-N-Symbol-logo-300x300.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "netflix_logo.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
